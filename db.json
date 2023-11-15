@@ -1,0 +1,15 @@
+{
+  "Data": [
+      {   "head":"Graduation",
+          "label":"I am btech Cse graduate. I have done my graduation from Lovely Professional Univercity, Jalendhar with aggregate CGPA of 7.8 . My major was Data science during graduation. I made many projects like heart attack I was also   part of an organisation know as UNYC. In that organizastion I used to anchor the events and also part of event organizing committee.",
+          "imagePath":"assets/lpu.jpeg"
+      },
+      {
+        "head":"Intermediate",
+          "label": "I have completed my 10th and 12th from St Thomas inter collage. I was into sports in my school days like I use to represent my school into InterSchool annual meet. I also represented my school in debate competition and won Gold for 3 cosecutive years.",
+         
+          "imagePath":"assets/lpu.jpeg"
+      }
+      
+    ]
+}

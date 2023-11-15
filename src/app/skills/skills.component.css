@@ -1,0 +1,23 @@
+.skill{
+    background-image: url("../../assets/bg2.jpg");
+    margin: 0%;
+    background-size: cover;
+    background-attachment:fixed ;
+    min-height: 420px;
+}
+.newskills{
+    margin: 5px;
+    border: 2px solid rgb(9, 9, 9);
+    border-radius: 5px;
+    height: 40px;
+}
+.btn{
+    margin: 5px;
+}
+li .btn{
+    justify-content: center;
+}
+ul li {
+    list-style: none;
+    color: aliceblue;
+}

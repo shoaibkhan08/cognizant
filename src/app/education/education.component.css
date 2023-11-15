@@ -1,0 +1,27 @@
+.edu {
+  background-image: url("../../assets/bg3.jpg");
+  margin: 0%;
+
+  background-size: 100%;
+  background-attachment: fixed;
+}
+.school {
+  display: flex;
+  margin: 0px;
+}
+.school:hover {
+  transform: scale(0.8);
+
+  box-shadow: 10px 10px rgb(45, 48, 49);
+  padding: 10px;
+  width: 80%;
+  height: 50%;
+  border: 5px solid black;
+  border-radius: 20px;
+}
+.schoolinfo {
+  float: right;
+
+  margin: 30px;
+}
+

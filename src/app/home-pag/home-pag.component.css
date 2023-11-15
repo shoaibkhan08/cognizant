@@ -1,0 +1,33 @@
+.body{
+    background-image: url("../../assets/bg2.jpg");
+    margin: 0%;
+    background-size: cover;
+    background-attachment:fixed ;
+   
+}
+.container {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%
+    
+ }
+ .text{ animation-name: shoaib;
+    animation-duration: 5s;
+    animation-iteration-count:1 ;
+    animation-fill-mode: forwards;
+    
+ }
+ @keyframes shoaib {
+    from{
+        width: 10%;
+    }
+    to{
+    width: 30%;
+    }
+    
+ }
+
+

@@ -1,0 +1,10 @@
+
+<div class="skill">
+    <h2>Skills</h2>
+    <ul>
+        <li *ngFor="let skill of skills; let i = index"> {{ skill.name }}
+            <button (click)="removeSkill(i)" type="button" class="btn btn-danger">Remove</button>
+        </li>
+    </ul> <input [(ngModel)]="newSkill.name" placeholder="New Skill" class="newskills" />
+    <button (click)="addSkill()" type="button" class="btn btn-dark">Add Skill</button>
+</div>

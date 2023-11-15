@@ -1,0 +1,19 @@
+{
+    "Data": [
+        {
+            "confidence": 0.9983,
+            "label": "height",
+            "value": "5 FT 7 IN"
+        },
+        {
+            "confidence": 0.9971,
+            "label": "squad",
+            "value": "Team A"
+        },
+        {
+          "confidence": 0.9971,
+          "label": "squad",
+          "value": "Team A"
+      }
+      ]
+  }
